@@ -1,4 +1,4 @@
-# On MCP And Consolidation
+![alt text](graphics/1.webp)
 
 *Notes and a few resources*
 
@@ -6,27 +6,10 @@
 
 ## Table of Contents
 
-- [On MCP And Consolidation](#on-mcp-and-consolidation)
-  - [Table of Contents](#table-of-contents)
-  - [Notes](#notes)
-- [The Problems With The MCP Status Quo](#the-problems-with-the-mcp-status-quo)
-  - [Problem 1: It's Not Accessible (To Non-Developers)](#problem-1-its-not-accessible-to-non-developers)
-    - [FYI: Not Everyone Loves The Idea](#fyi-not-everyone-loves-the-idea)
-    - [Why MCP Needs To Be Ordinary Person Useable](#why-mcp-needs-to-be-ordinary-person-useable)
-  - [MCP Is Also Hard For Tech Literate Users](#mcp-is-also-hard-for-tech-literate-users)
-  - [Developers Don't Want Bundles Of MCP Servers](#developers-dont-want-bundles-of-mcp-servers)
-- [MCP Consolidation As A Solution To Several Pain Points](#mcp-consolidation-as-a-solution-to-several-pain-points)
-  - [Keywords](#keywords)
-  - [Discovery Prompt](#discovery-prompt)
-- [Project List](#project-list)
-  - [MCP Gateways \& Routing](#mcp-gateways--routing)
-  - [MCP Meta-Servers \& Aggregators](#mcp-meta-servers--aggregators)
-  - [MCP Orchestration \& Management Platforms](#mcp-orchestration--management-platforms)
-  - [Major Vendor MCP Tools](#major-vendor-mcp-tools)
-  - [MCP Security \& Access Control](#mcp-security--access-control)
-  - [MCP SaaS Connectors \& Marketplaces](#mcp-saas-connectors--marketplaces)
-  - [MCP Registries \& Directories](#mcp-registries--directories)
-  - [Awesome Lists \& Resources](#awesome-lists--resources)
+- [MCP Status Quo: Why It's Painful](#the-problems-with-the-mcp-status-quo)
+- [MCP Consolidation As A Solution](#mcp-consolidation-as-a-solution-to-several-pain-points)
+- [Some Examples & Projects](#project-list)
+
 
 ## Notes
 
@@ -70,11 +53,15 @@ The ability of AI systems to *buy* things involves a much higher level of trust 
 
 Much as developers worry about agentic code tools screwing up code-bases (potentially costing them their jobs), non-developers worry about agents potentially going on a YOLO-style Amazon spending spree and bankrupting them.  
 
+![alt text](graphics/2.webp)
+
 But if you see eye to eye on the potential utility of AI systems being able to *do*  things at some level, then folks like me are left with really crappy answers to the question of: *"so, how can I try out MCP?"*
 
 Claude Desktop? Yes, but many folks are happy with ChatGPT (etc). Oh, you can add MCPs to ChatGPT? Sounds cool! But wait ... no, I'm not using "Developer Mode" and I really don't want to touch "code." 
 
 ### Why MCP Needs To Be Ordinary Person Useable
+
+![alt text](graphics/3.png)
 
 There are some inherent contradictions in agentic AI and MCP that rarely get much articulation.
 
@@ -89,6 +76,8 @@ MCP's utility extends vastly beyond being nice tooling for agentic workflows. GU
 ---
 
 ## MCP Is Also Hard For Tech Literate Users
+
+![alt text](graphics/4.png)
 
 Many folks on X proclaim triumphantly: "MCP is too hard for non-devs."
 
@@ -123,6 +112,8 @@ But local MCPs are environment-bound. Replicating these across computers is tedi
 
 # MCP Consolidation As A Solution To Several Pain Points
 
+![alt text](graphics/5.png)
+
 I created this repo because:
 
 1) I like creating lists of resources for myself to check out
@@ -137,6 +128,8 @@ Above, I mapped out a couple of fundamental challenges facing MCP adoption and u
 - Much as I don't want to spend my day switching out credentials or setting up environments for specific projects, I don't want to have to set up MCP servers one by one.
 
 Here we can identify two approaches which, though similar, are not the same - but which both offer powerful potential improvements here:
+
+![alt text](graphics/6.png)
 
 1: MCP Gateways: intelligent routing that matches requests from AI agents to the appropriate MCP - perhaps feeding tool definitions on an "as needed" basis to avoid context flooding.
 
@@ -180,6 +173,8 @@ I'm tired of installaging MCP servers, managing JSON files, and setting up crede
 
 
 ---
+
+![alt text](graphics/7.png)
 
 # Project List
 

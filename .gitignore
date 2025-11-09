@@ -1,0 +1,3 @@
+# Override global gitignore to include ai-created directory
+!ai-created/
+!ai-created/**
