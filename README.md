@@ -22,6 +22,11 @@
   - [MCP Gateways \& Routing](#mcp-gateways--routing)
   - [MCP Meta-Servers \& Aggregators](#mcp-meta-servers--aggregators)
   - [MCP Orchestration \& Management Platforms](#mcp-orchestration--management-platforms)
+  - [Major Vendor MCP Tools](#major-vendor-mcp-tools)
+  - [MCP Security \& Access Control](#mcp-security--access-control)
+  - [MCP SaaS Connectors \& Marketplaces](#mcp-saas-connectors--marketplaces)
+  - [MCP Registries \& Directories](#mcp-registries--directories)
+  - [Awesome Lists \& Resources](#awesome-lists--resources)
 
 ## Notes
 
@@ -184,6 +189,16 @@ Now, finally, a list of repositories straddling different themes:
 
 [![centralmind/gateway](https://img.shields.io/badge/View_Repo-centralmind%2Fgateway-blue?style=for-the-badge&logo=github)](https://github.com/centralmind/gateway)
 
+[![supercorp-ai/supergateway](https://img.shields.io/badge/View_Repo-supercorp--ai%2Fsupergateway-blue?style=for-the-badge&logo=github)](https://github.com/supercorp-ai/supergateway)
+
+[![lasso-security/mcp-gateway](https://img.shields.io/badge/View_Repo-lasso--security%2Fmcp--gateway-blue?style=for-the-badge&logo=github)](https://github.com/lasso-security/mcp-gateway)
+
+[![microsoft/mcp-gateway](https://img.shields.io/badge/View_Repo-microsoft%2Fmcp--gateway-blue?style=for-the-badge&logo=github)](https://github.com/microsoft/mcp-gateway)
+
+[![acehoss/mcp-gateway](https://img.shields.io/badge/View_Repo-acehoss%2Fmcp--gateway-blue?style=for-the-badge&logo=github)](https://github.com/acehoss/mcp-gateway)
+
+[![hyprmcp/mcp-gateway](https://img.shields.io/badge/View_Repo-hyprmcp%2Fmcp--gateway-blue?style=for-the-badge&logo=github)](https://github.com/hyprmcp/mcp-gateway)
+
 ## MCP Meta-Servers & Aggregators
 
 [![metatool-ai/metamcp](https://img.shields.io/badge/View_Repo-metatool--ai%2Fmetamcp-blue?style=for-the-badge&logo=github)](https://github.com/metatool-ai/metamcp)
@@ -197,3 +212,27 @@ Now, finally, a list of repositories straddling different themes:
 [![obot-platform/obot](https://img.shields.io/badge/View_Repo-obot--platform%2Fobot-blue?style=for-the-badge&logo=github)](https://github.com/obot-platform/obot)
 
 [![AmoyLab/Unla](https://img.shields.io/badge/View_Repo-AmoyLab%2FUnla-blue?style=for-the-badge&logo=github)](https://github.com/AmoyLab/Unla)
+
+## Major Vendor MCP Tools
+
+[![IBM/mcp-context-forge](https://img.shields.io/badge/View_Repo-IBM%2Fmcp--context--forge-blue?style=for-the-badge&logo=github)](https://github.com/IBM/mcp-context-forge)
+
+## MCP Security & Access Control
+
+[![sxhxliang/mcp-access-point](https://img.shields.io/badge/View_Repo-sxhxliang%2Fmcp--access--point-blue?style=for-the-badge&logo=github)](https://github.com/sxhxliang/mcp-access-point)
+
+## MCP SaaS Connectors & Marketplaces
+
+[![Zapier MCP](https://img.shields.io/badge/Visit-Zapier_MCP-orange?style=for-the-badge)](https://zapier.com/mcp)
+
+[![Smithery.ai](https://img.shields.io/badge/Visit-Smithery.ai-orange?style=for-the-badge)](https://smithery.ai/)
+
+## MCP Registries & Directories
+
+[![mcp (Official GitHub Organization)](https://img.shields.io/badge/Visit-MCP_Official-purple?style=for-the-badge&logo=github)](https://github.com/mcp)
+
+[![Azure MCP Registry](https://img.shields.io/badge/Visit-Azure_MCP_Registry-purple?style=for-the-badge)](https://mcp.azure.com/)
+
+## Awesome Lists & Resources
+
+[![e2b-dev/awesome-mcp-gateways](https://img.shields.io/badge/View_Repo-e2b--dev%2Fawesome--mcp--gateways-green?style=for-the-badge&logo=github)](https://github.com/e2b-dev/awesome-mcp-gateways)
